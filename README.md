@@ -20,7 +20,7 @@ http://rusarchives.ru/12april/pages/02_13_3.jpg
 OpenSCAD
 --------
 
-Для рендеринга вам неоходимо установить программу OpenSCAD (бесплатная, кроссплатформенная).
+Для рендеринга вам необходимо установить программу OpenSCAD (бесплатная, кроссплатформенная).
 http://www.openscad.org/downloads.html
 
 И загрузить в неё файл `gagarin_vostok.scad`.
