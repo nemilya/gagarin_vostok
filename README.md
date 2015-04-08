@@ -53,3 +53,5 @@ d,c
 f,v
 
 Соотв управление 4-мя корректирующими соплами.
+
+![](https://raw.githubusercontent.com/nemilya/gagarin_vostok/master/v-rep/screenshot.jpg)
